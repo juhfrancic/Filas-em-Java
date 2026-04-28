@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Chamado;
 
 public class Chamado implements Comparable<Chamado>{
     public String descricao;

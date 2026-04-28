@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ExemploPaciente;
 
 import java.util.PriorityQueue;
 

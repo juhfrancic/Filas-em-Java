@@ -1,4 +1,4 @@
-package org.example;
+package org.example.ExemploPaciente;
 
 public class Paciente implements Comparable<Paciente>{
     String nome;
